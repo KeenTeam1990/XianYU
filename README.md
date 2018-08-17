@@ -9,6 +9,8 @@
 
 封装刷新控件，仿闲鱼动画效果
 
+作者：KT ：QQ：812144991 ; 注明：版权所有，转载请注明出处，不可用于其他商业用途。 
+
 ![image](https://github.com/MikeZhangpy/XianYU/blob/master/xianyu.gif)  
 
 # License
